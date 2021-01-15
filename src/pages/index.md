@@ -66,7 +66,7 @@ sections:
     title: Contact Us
     section_id: contact
     component: ContactBlock
-    subtitle: hello@henryave.com  |  810-399-5911
+    subtitle: 810-399-5911
 menus:
   main:
     title: Home
