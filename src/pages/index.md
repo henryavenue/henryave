@@ -66,7 +66,7 @@ sections:
     title: Contact Us
     section_id: contact
     component: ContactBlock
-    subtitle: 810-399-5911
+    subtitle: We look forward to hearing from you.
 menus:
   main:
     title: Home
