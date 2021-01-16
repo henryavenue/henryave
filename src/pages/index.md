@@ -12,7 +12,7 @@ sections:
     num_projects_displayed: 6
     section_id: latest-projects
     view_all_url: portfolio/index.html
-    subtitle: An optional subtitle of the section
+    subtitle: A few of our favorite projects
     title: Recent Work
     type: portfolioblock
     layout_style: mosaic
@@ -54,10 +54,10 @@ sections:
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
           dui sollicitudin, vel posuere justo laoreet.
   - type: postsblock
-    title: Latest from the Blog
+    title: Blog
     section_id: latest-posts
     component: PostsBlock
-    subtitle: An optional subtitle of the section
+    subtitle: Latest from the blog
     num_posts_displayed: 2
     actions:
       - label: View Blog
