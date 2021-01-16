@@ -66,7 +66,7 @@ sections:
     title: Contact Us
     section_id: contact
     component: ContactBlock
-    subtitle: We look forward to hearing from you.
+    subtitle: Let's talk about working together
 menus:
   main:
     title: Home
