@@ -57,7 +57,7 @@ sections:
     title: Blog
     section_id: latest-posts
     component: PostsBlock
-    subtitle: Latest from the blog
+    subtitle: Latest articles
     num_posts_displayed: 2
     actions:
       - label: View Blog
