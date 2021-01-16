@@ -66,7 +66,7 @@ sections:
     title: Contact Us
     section_id: contact
     component: ContactBlock
-    subtitle: Let's talk about working together
+    subtitle: Ask about working together
 menus:
   main:
     title: Home
