@@ -42,7 +42,7 @@ sections:
     title: Testimonials
     section_id: testimonials
     component: TestimonialsBlock
-    subtitle: An optional subtitle of the section
+    subtitle: What people are saying
     testimonialslist:
       - author: John Doe
         avatar: images/john_doe.jpg
