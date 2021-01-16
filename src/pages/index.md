@@ -21,7 +21,7 @@ sections:
     title: What We Do
     section_id: services
     component: ServicesBlock
-    subtitle: An optional subtitle of the section
+    subtitle: Services we offer
     serviceslist:
       - title: Service Title
         content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
