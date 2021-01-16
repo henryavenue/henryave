@@ -12,7 +12,7 @@ sections:
     num_projects_displayed: 6
     section_id: latest-projects
     view_all_url: portfolio/index.html
-    subtitle: A few of our favorite projects
+    subtitle: Some of our favorite projects
     title: Recent Work
     type: portfolioblock
     layout_style: mosaic
