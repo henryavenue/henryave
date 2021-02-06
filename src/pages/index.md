@@ -5,9 +5,9 @@ sections:
     title: Hi, welcome to Henry Avenue.
     section_id: hero
     component: HeroBlock
-    content: Design, web development, and managed web hosting. Our clients benefit
-      from our expertise and personal attention. Get in touch today to find out
-      how we can help!
+    content: Design, web development, and [managed web hosting](https://henry.host).
+      Our clients benefit from our expertise and personal attention. Get in
+      touch today to find out how we can help!
   - view_all_text: View All
     num_projects_displayed: 6
     section_id: latest-projects
