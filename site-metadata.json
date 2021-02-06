@@ -12,7 +12,12 @@
       {
         "text": "Henry Avenue",
         "url": "https://henryave.com",
-        "new_window": true
+        "new_window": false
+      },
+      {
+        "new_window": true,
+        "text": "Henry Host",
+        "url": "https://henry.host"
       }
     ],
     "has_social": true
