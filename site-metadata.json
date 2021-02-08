@@ -4,7 +4,8 @@
   "accent_color": "pink",
   "header": {
     "title": "Henry Avenue",
-    "has_nav": true
+    "has_nav": true,
+    "logo_img": "/images/logomark_v2_300.png"
   },
   "footer": {
     "content": "&copy; Henry Avenue. All rights reserved.",
@@ -16,7 +17,7 @@
       },
       {
         "new_window": true,
-        "text": " Henry Host",
+        "text": "Henry Host Web Hosting",
         "url": "https://henry.host"
       }
     ],
